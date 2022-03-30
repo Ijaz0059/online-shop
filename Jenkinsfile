@@ -22,8 +22,8 @@ node{
              
              sh 'docker login -u "ijaz0059" -p "B4u@0059" docker.io'
              //sh 'docker push upasanatestdocker/mysql'
-             //sh 'docker push upasanatestdocker/job1_web1.0'
-             sh 'docker push ijaz0059/ecommerce'
+             //sh 'docker push upasanatestdocker/job1_web1'
+             sh 'docker push ijaz0059/new_web'
             // sh 'docker push upasanatestdocker/mysql'
           
     }
